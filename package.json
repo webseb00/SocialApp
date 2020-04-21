@@ -1,0 +1,10 @@
+{
+  "name": "mern-social-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "webseb00 <lordow91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
